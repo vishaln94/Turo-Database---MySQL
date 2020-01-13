@@ -1,6 +1,6 @@
 select version();
 
-create database _vina1608_student;
+create database _team_26_turo;
 use _team26_turo;
 
 create table if not exists Customers (
